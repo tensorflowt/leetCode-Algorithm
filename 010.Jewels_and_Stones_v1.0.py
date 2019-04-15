@@ -1,3 +1,7 @@
+#  Algorithm function：
+# Input: J = "aA", S = "aAAbbbb"
+# Output: 3
+
 class Solution(object):
     def numJewelsInStones(self,J,S):
         J = list(J)
